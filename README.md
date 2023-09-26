@@ -15,7 +15,7 @@ Maven:
 ```xml
 <dependecy>
     <groupId>com.github.Hobbyshop</groupId>
-    <articfactId>easy-try-catch</articfactId>
+    <articfactId>EasyTryCatch</articfactId>
     <version>1.0</version>
 </dependecy>
 ```
@@ -31,7 +31,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.Hobbyshop:easy-try-catch:1.0'
+    implementation 'com.github.Hobbyshop:EasyTryCatch:1.0'
 }
 ```
 
