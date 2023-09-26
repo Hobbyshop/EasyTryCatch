@@ -16,7 +16,7 @@ Maven:
 <dependecy>
     <groupId>com.github.Hobbyshop</groupId>
     <articfactId>EasyTryCatch</articfactId>
-    <version>1.0</version>
+    <version>1.1</version>
 </dependecy>
 ```
 
@@ -31,7 +31,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.Hobbyshop:EasyTryCatch:1.0'
+    implementation 'com.github.Hobbyshop:EasyTryCatch:1.1'
 }
 ```
 
